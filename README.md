@@ -36,6 +36,10 @@ set due = record.date.addDays(14).formatDate("d.m.Y")
 set sum = total + shipping                        // sum
 ```
 
+## Live-Demo
+
+[Try it yourself](https://git.jinx-digital.com/pseudocode)
+
 ## The language
 
 - **Statements**, one per line (or `;`): `set <name or path> = <value>` (returned by `run()`),
